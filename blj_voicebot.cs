@@ -1,6 +1,9 @@
 // Authored by Elega Corporation, 2020.
 // This code is under the MIT license: please see the LICENSE file regarding usage of this code.
 
+// Documentation for Voicebot scripted functions in macros can be found:
+// https://www.voicebot.net/ScriptedFunctions/Help
+
 using System;
 using System.Drawing;
 
