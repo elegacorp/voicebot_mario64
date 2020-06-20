@@ -4,6 +4,8 @@ Voicebot (https://www.voicebot.net/) is a tool that allows you to associate cert
 
 The contents of this repository fall under the MIT license, so please feel free to use this for your own purposes. 
 
+This code was featured in the Nathaniel Bandy video called [Mario 64's BLJ With 10 More Stupid Controllers](https://youtu.be/i8569kf2JKg?t=480).
+
 
 ### Author
 My name is Scott Lee, and I wrote this code. You can learn more about the projects I've done like this and others at the Elega Corporation website: https://www.ElegaCorp.com! I'm an online educator and developer of games & business applications.
